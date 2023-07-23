@@ -1,0 +1,4 @@
+SMS Bomber'ı çalıştırmak için Python3'ü cihazınıza kurun. Ardından smsbomberv1.5.py dosyasını Python ile açıp kurbanın telefon numarasını +90 olmadan yazıp istediğiniz SMS sayısını programa belirtip Thread'i de 5 yapıp saldırıyı başlatabilirsiniz. 
+
+İyi Eğlenceler
+-TunisMan
